@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<markers>
+
+<marker>
+<id>PSU201601436</id>
+<time>04/04/2016 7:41 PM</time>
+<incident>Resident Assistant reported odor of marijuana, origin not located</incident>
+<offenses>Possession of Small Amount of Marijuana</offenses>
+<location>Curtin Hall</location>
+<disposition>Inactive</disposition>
+
+
+<name>Possession of Small Amount of Marijuana</name>
+<address>Curtin Hall</address>
+<lat>40.805333</lat>
+<lng>-77.861083</lng>
+</marker>
+
+<marker>
+
+<id>PSU201601406</id>
+<time>04/02/2016 6:07 PM</time>
+<incident>Assisted the ambulance with a medical emergency</incident>
+<offenses>Possession Of Other Drug/Health and Safety/RFA-Request for Assistance</offenses>
+<location>Tener Hall</location>
+<disposition>Open</disposition>
+
+
+<name>Possession Of Other Drug/Health and Safety/RFA-Request for Assistance</name>
+<address>Tener Hall</address>
+<lat>40.8062467</lat>
+<lng>-77.8638052</lng>
+</marker>
+
+<marker>
+<id>PSU201601399</id>
+<time>04/02/2016 8:36 AM</time>
+<incident>Student reported the theft of their secured property</incident>
+<offenses>Theft/Under $50/Bicycle/Criminal Mischief - Other</offenses>
+<location>Recreation Hall</location>
+<disposition>Open</disposition>
+
+
+<name>Theft/Under $50/Bicycle/Criminal Mischief - Other</name>
+<address>Recreation Hall</address>
+<lat>40.7960624</lat>
+<lng>-77.869238</lng>
+</marker>
+
+<!--
+<marker>
+<id></id>
+<time></time>
+<incident></incident>
+<offenses></offenses>
+<location></location>
+<disposition></disposition>
+
+
+<name></name>
+<address></address>
+<lat></lat>
+<lng></lng>
+</marker>
+-->
+</markers>

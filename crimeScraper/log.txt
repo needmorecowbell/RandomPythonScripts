@@ -1,0 +1,237 @@
+PSU201601565;04/11/2016 10:48 PM;Student reported a concern for another student;RFA-Request for Assistance;Hartranft Hall;Closed
+PSU201601564;04/11/2016 7:06 PM;Resident Assistant reported the odor of marijuana, origin not located;Possession of Small Amount of Marijuana;Stuart Hall;Inactive
+PSU201601563;04/11/2016 2:51 PM;Student reported the loss or theft of their unattended personal property;Theft/$50-$200/From Building/Harassment;Lyons Hall;Open
+PSU201601562;04/11/2016 12:33 PM;Resident Assistant reported the odor of marijuana, origin not located;Possession of Small Amount of Marijuana;Stone Hall;Inactive
+PSU201601560;04/11/2016 11:05 AM;Officer participated in a law enforcement related interview with a student;Community Education Report;Eisenhower Parking Deck;Open
+PSU201601561;04/11/2016 10:46 AM;Student reported suspicious persons;Suspicious Activity - Persons;Hub Robeson Cultural Center Bldg;Closed
+PSU201601559;04/11/2016 10:23 AM;Assisted an outside law enforcement agency with an investigation;Assist State College Police;E College Ave & S Allen St;Open
+PSU201601558;04/11/2016 9:49 AM;Officer conducted a security inspection;RFA-Request for Assistance/Specialist Call Out Canine;Fox Hill Rd;Closed
+PSU201601557;04/11/2016 8:23 AM;Student reported being harassed;Criminal Mischief - Vehicles/Stalking/Harassment/Disorderly Conduct - Loud Voices;Mifflin Hall;Open
+PSU201601556;04/11/2016 7:51 AM;Student reported suspicious person;Suspicious Activity - Persons;Chemistry Bldg;Closed
+PSU201601555;04/11/2016 6:01 AM;Employee reported the odor of marijuana, origin not located;Possession of Small Amount of Marijuana;McKean Hall;Inactive
+PSU201601554;04/11/2016 5:52 AM;Officer participated in a community education program regarding prospective students;Community Education Report;Schwab Auditorium Bldg;Closed
+PSU201601553;04/11/2016 3:02 AM;Officer distributed theft prevention material;Community Education Report;White Bldg;Closed
+PSU201601552;04/10/2016 8:00 PM;Officer distributed theft prevention material;Community Education Report;Pattee Library Bldg;Closed
+PSU201601551;04/10/2016 5:58 PM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Curtin Rd & Psu Access;Closed
+PSU201601550;04/10/2016 5:06 PM;Student reported suspicious person;Criminal Trespass/Suspicious Activity - Persons;Lewis Katz Bldg;Open
+PSU201601549;04/10/2016 3:25 PM;Student reported the loss or theft of their unsecured personal property;Theft/Over $200/From Building;Atherton Hall;Inactive
+PSU201601548;04/10/2016 2:28 PM;Student reported a two vehicle crash with no injuries;Vehicle Code - Accident/Limitations On Backing;Yellow T Redifer Lot;Open
+PSU201601546;04/10/2016 9:23 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Intramural Bldg;Closed
+PSU201601547;04/10/2016 8:09 AM;Visitor requested assistance with a personal matter;RFA-Request for Assistance;Deer Pens Office Trailer Bldg;Closed
+PSU201601545;04/09/2016 10:43 PM;Student observed highly intoxicated and transported to the hospital;Public Drunkenness/Peds Under Influence Of Alcohol Or Controlled Subs/Health and Safety/RFA-Request for Assistance;University Dr;Cleared by Arrest
+PSU201601535;04/09/2016 3:23 PM;Assisted the ambulance with a medical emergency;Pur,Cons,Poss, Trans Intox Bev/Health and Safety/RFA-Request for Assistance;McElwain Hall;Open
+PSU201601534;04/09/2016 2:01 PM;Student reported a one vehicle crash with no injuries;Vehicle Code - Accident;Bigler Rd & E Park Ave;Closed
+PSU201601533;04/09/2016 9:24 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;White Bldg;Closed
+PSU201601532;04/09/2016 9:04 AM;Employee reported damage to University property;Criminal Mischief - Buildings;Geary Hall;Inactive
+PSU201601531;04/09/2016 9:03 AM;Student reported the loss or theft of their unsecured personal property;Theft Of Property Lost Etc.;Medlar Fld;Inactive
+PSU201601530;04/09/2016 8:53 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Intramural Bldg;Closed
+PSU201601529;04/09/2016 6:34 AM;Student reported a two vehicle crash with no injuries;Vehicle Code - Accident;N Burrowes Rd & Curtin Rd;Open
+PSU201601528;04/09/2016 4:08 AM;Staff provided security for the Sexual Trafficking: Vulnerabilities and Solutions event;Community Education Report;Bryce Jordan Center Bldg;Closed
+PSU201601527;04/08/2016 11:18 PM;Underage visitor observed highly intoxicated and transported to the hospital;Pur,Cons,Poss, Trans Intox Bev/Health and Safety/RFA-Request for Assistance;Carnegie Bldg;Cleared by Arrest
+PSU201601505;04/08/2016 11:55 AM;Student reported the theft of their unsecured personal property;Theft Of Property Lost Etc.;Paterno Library Bldg;Open
+PSU201601504;04/08/2016 10:36 AM;Employee reported the odor of marijuana;Possession of Small Amount of Marijuana;Stuart Hall;Open
+PSU201601503;04/08/2016 9:03 AM;Visitor Reported Theft of a Leased Vehicle;Theft Of Leased Property;Fox Hill Rd;Open
+PSU201601502;04/08/2016 6:45 AM;Employee reported damage to University property;Criminal Mischief - Other;Thompson Hall;Open
+PSU201601501;04/08/2016 6:07 AM;Employee reported the odor of marijuana;Possession of Small Amount of Marijuana;Snyder Hall;Open
+PSU201601500;04/08/2016 5:34 AM;Employee reported damage to University property;Criminal Mischief - Buildings;Simmons Hall;Inactive
+PSU201601498;04/08/2016 5:01 AM;Employee reported a two vehicle crash with no imjuries;Vehicle Code - Accident/Accidents Involving Damage To Unattended Vh/Propty;Housing And Food Serv Bldg;Closed
+PSU201601499;04/08/2016 4:48 AM;Student requested assistance with a personal matter;RFA-Request for Assistance;Hiester Hall;Closed
+PSU201601497;04/08/2016 3:35 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Hoyt Hall;Closed
+PSU201601495;04/08/2016 2:57 AM;Officer observed a student trespassing inside a residence hall room;Criminal Trespass;Packer Hall;Inactive
+PSU201601496;04/08/2016 2:55 AM;Employee reported unsafe conditions;Health and Safety;Thompson Hall;Open
+PSU201601494;04/07/2016 10:45 PM;Student reported being physically assaulted by a known person;Simple Assault/Criminal Mischief - Buildings/Pur,Cons,Poss, Trans Intox Bev/Harassment/Health and Safety/RFA-Request for Assistance;Packer Hall;Open
+PSU201601493;04/07/2016 10:01 PM;A vehicle stop investigation revealed the operator to be driving under the influence of alcohol;DUI of Alcohol or Contl Substance/Turning Movements And Required Signals;E College Ave;Open
+PSU201601492;04/07/2016 9:57 PM;Student consumed alcoholic beverages being less than 21 years of age;Pur,Cons,Poss, Trans Intox Bev/Disorderly Conduct - Urinating In Public/Health and Safety/RFA-Request for Assistance;Curtin Hall;Cleared by Arrest
+PSU201601475;04/06/2016 9:07 PM;Resident Assistant reported the odor of marijuana, origin not located;Possession of Small Amount of Marijuana;Pinchot Hall;Inactive
+PSU201601474;04/06/2016 5:54 PM;Staff provided security for the Abby Wombach speech;Community Education Report;Eisenhower Auditorium Bldg;Closed
+PSU201601472;04/06/2016 3:41 PM;Student reported the loss or theft of their unsecured personal property;Theft/Over $200/From Building;Hub Robeson Cultural Center Bldg;Open
+PSU201601471;04/06/2016 2:59 PM;Officer presented a stay safe active shooter program to thirty-eight students;Community Education Report;Walker Bldg;Closed
+PSU201601473;04/06/2016 2:52 PM;Staff provided security for the No Apologizing event;Community Education Report;Life Sciences Bldg;Closed
+PSU201601469;04/06/2016 1:03 PM;Staff provided security for a speaker;Community Education Report;Sparks Bldg;Closed
+PSU201601470;04/06/2016 12:52 PM;Student reported being harassed;Terroristic Threats/Harassment;Chambers Bldg;Open
+PSU201601468;04/06/2016 12:06 PM;Assisted an outside law enforcement agency with an investigation;Assist State College Police;Eisenhower Parking Deck;Closed
+PSU201601467;04/06/2016 11:18 AM;Visitor reported a missing person;RFA-Request for Assistance;Eisenhower Parking Deck;Closed
+PSU201601466;04/06/2016 11:05 AM;Assisted the fire department with a reported fire alarm activation;Fire Alarms - Intentional/RFA-Request for Assistance;General Stores Bldg;Closed
+PSU201601465;04/06/2016 10:46 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Davey Lab Bldg;Closed
+PSU201601464;04/06/2016 10:00 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;McElwain Hall;Closed
+PSU201601463;04/06/2016 9:09 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Willard Bldg;Closed
+PSU201601462;04/06/2016 7:43 AM;Employee reported suspicious activity;Suspicious Activity - Persons;Eisenhower Parking Deck;Closed
+PSU201601461;04/06/2016 4:40 AM;Employee reported damage to University property;Criminal Mischief - Signs;Pattee Library Bldg;Inactive
+PSU201601460;04/06/2016 3:11 AM;Student reported the loss or theft of their unsecured personal property;Theft Of Property Lost Etc.;Intramural Bldg;Open
+PSU201601459;04/05/2016 10:00 PM;Student reported they were sexually assaulted by a known person in a residence hall;Forcible Rape/Aggravated Indecent Assault/Indecent Assault;Unknown;Open
+PSU201601458;04/05/2016 9:15 PM;Assisted a student with a personal matter;Health and Safety;Panofsky Hall;Closed
+PSU201601457;04/05/2016 8:53 PM;Student requested assistance with a personal matter;Health and Safety;McElwain Hall;Closed
+PSU201601455;04/05/2016 6:00 PM;Anonymous report of the odor of marijuana, origin not located;Possession of Small Amount of Marijuana;Snyder Hall;Inactive
+PSU201601456;04/05/2016 5:51 PM;Student reported the theft of University property;Theft/Under $50/From Building/Criminal Mischief - Other;Brumbaugh Hall;Inactive
+PSU201601454;04/05/2016 3:50 PM;Student reported being harassed;Harassment;Penn State Campus;Inactive
+PSU201601453;04/05/2016 3:01 PM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Mueller Lab Bldg;Closed
+PSU201601452;04/05/2016 1:33 PM;Assisted an outside law enforcement agency with an investigation;Assist State College Police;Eisenhower Parking Deck;Closed
+PSU201601451;04/05/2016 12:36 PM;Received this department's copy of a Protection From Abuse (PFA) order;RFA-Request for Assistance;Eisenhower Parking Deck;Closed
+PSU201601450;04/05/2016 11:57 AM;Employee reported the theft of personal property from an unsecured office;Burglary/No Force-Nonres-Day/Theft/Under $50/From Building;Henderson Bldg;Open
+PSU201601449;04/05/2016 11:48 AM;Visitor reported the loss or theft of their unsecured personal property;Theft/Over $200/Other;Eisenhower Parking Deck;Open
+PSU201601448;04/05/2016 11:21 AM;Visitor reported a hit and run vehicle crash;Vehicle Code - Accident (Hit&Run)/Accidents-Damage Attn Veh/Prop;Arboretum Overlook Pavillion Bldg;Open
+PSU201601447;04/05/2016 10:35 AM;Student reported a two vehicle crash with no injuries;Vehicle Code - Accident;Deike Bldg;Open
+PSU201601446;04/05/2016 10:22 AM;Employee reported accidental damage to personal property;RFA-Request for Assistance;East Parking Deck;Open
+PSU201601445;04/05/2016 9:34 AM;Employee reported a concern for another person;RFA-Request for Assistance;Eisenhower Parking Deck;Closed
+PSU201601444;04/05/2016 9:25 AM;Assisted an outside law enforcement agency with an investigation;Assist Pa State Police;Haller Farm Bldg;Closed
+PSU201601443;04/05/2016 8:53 AM;Assisted an outside law enforcement agency with an investigation;Assist State College Police;Eisenhower Parking Deck;Closed
+PSU201601442;04/05/2016 6:28 AM;Assisted a student with a personal matter;Health and Safety;Cooper Hall;Open
+PSU201601441;04/05/2016 6:11 AM;Visitor requested assistance with a personal matter;RFA-Request for Assistance;Eisenhower Parking Deck;Closed
+PSU201601440;04/05/2016 5:19 AM;Student reported damage to personal property;Criminal Mischief - Other;Chace Hall;Open
+PSU201601439;04/05/2016 5:08 AM;Employee reported a hit and run vehicle accident;Vehicle Code - Accident (Hit&Run);Red A IST Lot;Open
+PSU201601438;04/05/2016 3:55 AM;Employee reported the loss or theft of University property;Theft/Under $50/From Motor Vehicle;Nittany Landscape Depot Bldg;Inactive
+PSU201601437;04/05/2016 2:39 AM;Student found in possession of false identification card;Carrying False Id Card-Minor;Business Bldg;Cleared by Arrest
+PSU201601415;04/03/2016 7:29 AM;Visitor reported a two vehicle crash with no injuries;Vehicle Code - Accident;Orange L East Lot;Closed
+PSU201601414;04/03/2016 4:41 AM;Employee reported damage to University property;Criminal Mischief - Buildings;Bigler Hall;Open
+PSU201601413;04/03/2016 12:37 AM;Underage student observed highly intoxicated and transported to the hospital;Pur,Cons,Poss, Trans Intox Bev/Criminal Trespass/Health and Safety/RFA-Request for Assistance;Stone Hall;Cleared by Arrest
+PSU201601384;04/01/2016 7:17 PM;Staff provided security for the Battle of the Bands event;Community Education Report;Hub Robeson Cultural Center Bldg;Closed
+PSU201601385;04/01/2016 6:45 PM;Employee reported a person trespassing inside a University building;Criminal Trespass;Recreation Hall;Inactive
+PSU201601383;04/01/2016 4:01 PM;Student reported the theft of personal property from an unsecured residence hall room;Burglary/No Force-Res-Night/Theft/Over $200/From Building/Criminal Trespass;Stone Hall;Open
+PSU201601382;04/01/2016 3:48 PM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Intramural Bldg;Closed
+PSU201601381;04/01/2016 2:11 PM;Student reported the loss or theft of their unsecured personal property;Theft Of Property Lost Etc.;Campus;Open
+PSU201601380;04/01/2016 2:02 PM;Student reported the loss or theft of their secured personal property;Theft/$50-$200/From Building;Intramural Bldg;Open
+PSU201601379;04/01/2016 12:20 PM;Employee reported finding abandoned marijuana;Possession of Small Amount of Marijuana;Innovation Blvd;Open
+PSU201601378;04/01/2016 11:26 AM;Student reported the theft of their unattended personal property;Theft/Over $200/From Building;Kern Graduate Bldg;Open
+PSU201601377;04/01/2016 11:22 AM;This agency received a copy of a Protection from Abuse Order;RFA-Request for Assistance;Eisenhower Parking Deck;Closed
+PSU201601376;04/01/2016 11:00 AM;Employee reported a hit and run vehicle crash;Vehicle Code - Accident (Hit&Run);Hub Robeson Cultural Center Bldg;Open
+PSU201601375;04/01/2016 10:09 AM;Student reported the loss or theft of their unattended personal property;Theft Of Property Lost Etc.;Joab L Thomas Bldg;Unfounded
+PSU201601374;04/01/2016 9:13 AM;Assisted an outside law enforcement agency with an investigation;Assist State College Police;Bigler Rd & E Park Ave;Closed
+PSU201601373;04/01/2016 9:11 AM;Student reported the theft of their secured personal property;Theft Of Property Lost Etc.;Intramural Bldg;Unfounded
+PSU201601372;04/01/2016 6:50 AM;Assisted the fire department with a reported fire alarm activation;Fire Alarms - Unknown/RFA-Request for Assistance;Joab L Thomas Bldg;Closed
+PSU201601371;04/01/2016 5:59 AM;Student reported being physically assaulted by an unknown person;Simple Assault/Harassment/Disorderly Conduct;Redifer Cmns;Open
+PSU201601370;04/01/2016 3:11 AM;Student observed highly intoxicated and transported to the hospital;Public Drunkenness/Disorderly Conduct/Health and Safety/RFA-Request for Assistance;White Bldg;Open
+PSU201601369;04/01/2016 2:59 AM;Employee reported a two vehicle crash with no injuries;Vehicle Code - Accident;W College Ave;Open
+PSU201601368;03/31/2016 11:46 PM;Employee reported disorderly persons;Public Drunkenness/Disorderly Conduct - Loud Voices/Harassment/Health and Safety/RFA-Request for Assistance;Hub Robeson Cultural Center Bldg;Open
+PSU201601367;03/31/2016 10:17 PM;Student reported being harassed;Pur,Cons,Poss, Trans Intox Bev/Harassment;Redifer Cmns;Open
+PSU201601366;03/31/2016 9:25 PM;Employee reported a fire alarm activation;Fire Alarms - Unknown;Penn Stater Conf Centr Hotel Bldg;Closed
+PSU201601364;03/31/2016 8:51 PM;Student consumed alcoholic beverages being less than 21 years of age;Pur,Cons,Poss, Trans Intox Bev;S Garner St;Cleared by Arrest
+PSU201601355;03/31/2016 10:33 AM;Student reported being harassed;Harassment;Eisenhower Parking Deck;Open
+PSU201601354;03/31/2016 10:13 AM;Officer conducted a security inspection;RFA-Request for Assistance/Specialist Call Out Canine;University Park Airport Bldg;Closed
+PSU201601353;03/31/2016 9:25 AM;Anonymous report of a sexual assault that occurred in the residence hall;Forcible Rape;;Inactive
+PSU201601352;03/31/2016 9:04 AM;Employee reported suspicious person;Suspicious Activity - Persons;Swine Research Bldg;Closed
+PSU201601351;03/31/2016 5:49 AM;Officer presented a StaySAFE program to forty employees;Community Education Report;Hintz Family Alumni Center Bldg;Closed
+PSU201601350;03/31/2016 5:47 AM;Employee reported suspicious activity;Suspicious Activity - Other;James M Elliott Bldg;Closed
+PSU201601349;03/31/2016 5:38 AM;Student reported the theft of their unsecured personal property;Theft/Over $200/From Building;Lewis Katz Bldg;Inactive
+PSU201601348;03/30/2016 8:11 PM;Underage student observed highly intoxicated and transported to the hospital;Pur,Cons,Poss, Trans Intox Bev/Public Drunkenness/Violations Concerning Licenses/Health and Safety/RFA-Request for Assistance;Curtin Rd;Cleared by Arrest
+PSU201601324;03/29/2016 9:04 AM;Assisted an outside law enforcement agency with an investigation;Assist State College Police;Eisenhower Parking Deck;Closed
+PSU201601325;03/29/2016 8:30 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Davey Lab Bldg;Closed
+PSU201601323;03/29/2016 7:58 AM;Student reported the loss or theft of their personal property;Theft Of Property Lost Etc.;Eisenhower Parking Deck;Open
+PSU201601321;03/29/2016 7:35 AM;Employee reported suspicious person;Suspicious Activity - Persons;Hub Robeson Cultural Center Bldg;Closed
+PSU201601322;03/29/2016 7:28 AM;Assisted the fire department with a reported fire alarm activation;Health and Safety/Fire Alarms - Unknown/RFA-Request for Assistance;Joab L Thomas Bldg;Closed
+PSU201601320;03/29/2016 7:14 AM;Officer conducted a security inspection;RFA-Request for Assistance/RFA-Request for Assistance;University Park Airport Bldg;Closed
+PSU201601319;03/29/2016 5:52 AM;Officer participated in a community education program regarding policing in the United States;Community Education Report;Boucke Bldg;Closed
+PSU201601318;03/29/2016 4:50 AM;Officer presented a First Year Seminar to ten students;Community Education Report;Joab L Thomas Bldg;Closed
+PSU201601317;03/28/2016 8:30 PM;Assisted the ambulance with a medical emergency;Possession of Small Amount of Marijuana/Health and Safety/PSU-Rules and Regulations/RFA-Request for Assistance;Sproul Hall;Open
+PSU201601316;03/28/2016 3:44 PM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Thomas Building Lot;Open
+PSU201601314;03/28/2016 2:42 PM;Incident issued in error;CAD Error-Incident Numbering Error;Eisenhower Parking Deck;Closed
+PSU201601315;03/28/2016 2:13 PM;Officer presented crime statistics to student group;Community Education Report;Redifer Cmns;Closed
+PSU201601313;03/28/2016 12:35 PM;Visitor reported accidental damage to a privately owned vehicle;RFA-Request for Assistance;Blue 82 Hastings Lot;Closed
+PSU201601312;03/28/2016 12:14 PM;Officer conducted a security inspection;RFA-Request for Assistance/RFA-Request for Assistance;University Park Airport Bldg;Closed
+PSU201601311;03/28/2016 11:06 AM;Employee reported the theft of their unsecured personal property;Theft Of Property Lost Etc.;Blue 82 Brumbaugh And Stuart Lot;Open
+PSU201601310;03/28/2016 10:43 AM;Employee reported a University policy violation;PSU-Rules and Regulations;Earth And Eng Sci Bldg;Closed
+PSU201601309;03/28/2016 8:06 AM;Officer participated in a community education program regarding sexual assault awareness;Community Education Report;Pollock Rd & N Burrowes Rd;Closed
+PSU201601307;03/28/2016 5:59 AM;Assisted an outside law enforcement agency with an investigation;Assist State College Police;Eisenhower Parking Deck;Closed
+PSU201601306;03/28/2016 5:37 AM;Officer participated in a community education program for accepted students;Community Education Report;Schwab Auditorium Bldg;Closed
+PSU201601308;03/28/2016 5:30 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Hammond Bldg;Closed
+PSU201601305;03/28/2016 4:19 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Simmons Hall;Closed
+PSU201601304;03/27/2016 7:45 PM;Resident Assistant reported the odor of marijuana, origin not located;Possession of Small Amount of Marijuana;Pinchot Hall;Inactive
+PSU201601303;03/27/2016 7:31 PM;Resident Assistant reported the odor of marijuana, origin not located;Possession of Small Amount of Marijuana;Pollock Bldg;Inactive
+PSU201601302;03/27/2016 6:25 PM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Tener Hall;Closed
+PSU201601301;03/27/2016 3:15 PM;Student reported the theft of personal property from an unsecured residence hall room;Burglary/No Force-Res-Night/Theft/Over $200/From Building;McElwain Hall;Unfounded
+PSU201601300;03/27/2016 2:16 PM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Engineering Unit C Bldg;Closed
+PSU201601299;03/27/2016 12:40 PM;Employee reported an unattended animal;RFA-Request for Assistance/Animal Complaints-Other Domestic;Pollock Rd;Closed
+PSU201601298;03/27/2016 12:30 PM;Anonymous report of loud music;Disorderly Conduct - Loud Music;Beaver Hall;Inactive
+PSU201601297;03/26/2016 11:13 PM;Employee reported being harassed;Harassment;Nittany Lion Inn Bldg;Inactive
+PSU201601295;03/26/2016 8:55 PM;Student stopped for University policy violation regarding skateboarding;PSU-Rules and Regulations;Pollock Rd & Fraser Rd;Closed
+PSU201601296;03/26/2016 8:54 PM;Student reported a concern for another student;Health and Safety/Missing Person-Female/Adult;Stuart Hall;Closed
+PSU201601294;03/26/2016 6:58 PM;Student reported the theft of property from an unsecured University building;Burglary/No Force-Nonres-Unknown/Theft/Over $200/From Building;Ritenour Bldg;Open
+PSU201601293;03/26/2016 5:33 PM;Employee found property;Found Property - Television/Radios/Cameras/Etc;Shortlidge Rd & Pollock Rd;Closed
+PSU201601292;03/26/2016 2:20 PM;Student consumed alcoholic beverages being less than 21 years of age;Pur,Cons,Poss, Trans Intox Bev/Health and Safety/RFA-Request for Assistance;Chace Hall;Cleared by Arrest
+PSU201601265;03/25/2016 9:30 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Sparks Bldg;Closed
+PSU201601264;03/25/2016 6:49 AM;Employee reported finding abandoned drug paraphernalia;Possession of Paraphernalia;McKean Hall;Inactive
+PSU201601263;03/25/2016 6:03 AM;Officer participated in a law enforcement related interview with a student;Community Education Report;Eisenhower Parking Deck;Closed
+PSU201601262;03/25/2016 5:58 AM;Officer participated in a community education program for accepted students;Community Education Report;Hub Robeson Cultural Center Bldg;Closed
+PSU201601261;03/25/2016 2:10 AM;Employee reported the theft of University property;Burglary/Forced-Nonres-Night/Theft/Under $50/From Building/Criminal Mischief - Buildings;Findlay Cmns;Open
+PSU201601260;03/25/2016 12:39 AM;Assisted the ambulance with a medical emergency;Pur,Cons,Poss, Trans Intox Bev/Health and Safety/RFA-Request for Assistance;Ritner Hall;Cleared by Arrest
+PSU201601235;03/24/2016 6:13 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Snyder Hall;Closed
+PSU201601234;03/24/2016 5:35 AM;Employee reported suspicious activity;Suspicious Activity - Other;White Bldg;Closed
+PSU201601233;03/24/2016 12:47 AM;Assisted the fire department with a reported fire alarm activation;Health and Safety/Fire Alarms - Unknown/RFA-Request for Assistance;Innovation Blvd;Closed
+PSU201601232;03/23/2016 10:13 PM;A vehicle stop investigation revealed the operator to be driving under the influence of alcohol;DUI of Alcohol or Contl Substance/Traffic Control Signals/Driving On Roadways Laned For Traffic/Careless Driving;N Atherton St & Curtin Rd;Open
+PSU201601231;03/23/2016 10:12 PM;Student reported the odor of marijuana, origin not located;Possession of Small Amount of Marijuana;Geary Hall;Inactive
+PSU201601230;03/23/2016 5:57 PM;Staff provided security for the Manchester Orchestra;Community Education Report;Hub Robeson Cultural Center Bldg;Closed
+PSU201601229;03/23/2016 5:20 PM;Officers participated in a community education program regarding self defense;Community Education Report;White Bldg;Closed
+PSU201601228;03/23/2016 3:57 PM;Employee detected the odor of burning marijuana, origin not located;Possession of Small Amount of Marijuana;Thompson Hall;Inactive
+PSU201601227;03/23/2016 3:14 PM;Visitor reported accidental damage to University property;RFA-Request for Assistance;Hub Parking Deck;Closed
+PSU201601226;03/23/2016 1:46 PM;Staff provided traffic control and security for the Harlem Globetrotters;Community Education Report;Bryce Jordan Center Bldg;Closed
+PSU201601225;03/23/2016 1:45 PM;Assisted an outside agency with an investigation;RFA-Request for Assistance/Specialist Call Out Canine/Assist Pa State Police;Harrisburg Train Station;Closed
+PSU201601224;03/23/2016 1:00 PM;Assisted State College Police with an investigation;Assist State College Police;Eisenhower Parking Deck;Closed
+PSU201601223;03/23/2016 12:05 PM;Employee reported the loss or theft of their unsecured personal property;Theft/Over $200/From Building/Receiving Stolen Property;Engineering Unit B Bldg;Open
+PSU201601222;03/23/2016 9:19 AM;Student reported the loss or theft of their unsecured personal property;Lost Property - Wallets/Purses/Bookbags/Etc;Redifer Cmns;Closed
+PSU201601221;03/23/2016 9:00 AM;Assisted the fire department with a fire alarm activation;Health and Safety/Fire Alarms - Unknown/RFA-Request for Assistance;Pattee Library Bldg;Closed
+PSU201601219;03/23/2016 8:59 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;White Bldg;Closed
+PSU201601220;03/23/2016 8:55 AM;Assisted the fire department with a reported fire alarm;Health and Safety/Fire Alarms - Unknown/RFA-Request for Assistance;Pegula Ice Arena Bldg;Closed
+PSU201601217;03/23/2016 7:06 AM;Employee reported accidental damage to University property;RFA-Request for Assistance;White Bldg;Closed
+PSU201601216;03/23/2016 7:04 AM;Employee reported a two vehicle crash with no injuries;Vehicle Code - Accident/Limitations On Backing;Green G Warnock Lot;Closed
+PSU201601218;03/23/2016 6:49 AM;Assisted a student with a personal matter;Health and Safety;Oswald Tower Bldg;Closed
+PSU201601214;03/23/2016 5:13 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Nittany Lion Inn Bldg;Closed
+PSU201601215;03/23/2016 4:58 AM;Employee reported accidental damage to University property;RFA-Request for Assistance;Burrowes Bldg;Closed
+PSU201601213;03/23/2016 3:38 AM;Employee reported damage to another's privately owned vehicle;Criminal Mischief - Vehicles;Yellow C Lot;Inactive
+PSU201601212;03/23/2016 12:18 AM;Student stopped and found in possession of false identification cards;Carrying False Id Card-Minor/Driving On Roadways Laned For Traffic;Orange Aly & Railroad Ave;Cleared by Arrest
+PSU201601205;03/22/2016 1:20 PM;Student reported a suspicious item;Suspicious Activity - Other;Joab L Thomas Bldg;Closed
+PSU201601204;03/22/2016 11:55 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Sackett Bldg;Closed
+PSU201601203;03/22/2016 10:41 AM;Resident Assistant reported finding abandoned drug paraphernalia;Pur,Cons,Poss, Trans Intox Bev/Possession of Paraphernalia/PSU-Rules and Regulations;Mifflin Hall;Inactive
+PSU201601201;03/22/2016 8:28 AM;Student reported theft of secured personal property;Theft/Over $200/Bicycle;Geary Hall;Inactive
+PSU201601202;03/22/2016 8:16 AM;Assisted the fire department with a reported water flow alarm;Fire Alarms - Intentional/RFA-Request for Assistance;Engineering Unit B Bldg;Closed
+PSU201601200;03/22/2016 6:43 AM;Employee reported a hit and run vehicle crash;Vehicle Code - Accident (Hit&Run);Yellow C Lot;Open
+PSU201601199;03/22/2016 6:10 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Breazeale Nuclear Reactor Bldg;Closed
+PSU201601198;03/22/2016 5:44 AM;Employee reported suspicious activity;Suspicious Activity - Other;Arboretum Sprng Creek Trail;Closed
+PSU201601197;03/22/2016 4:42 AM;Employee reported a two vehicle crash with no injuries;Vehicle Code - Accident;Stadium West Lot;Closed
+PSU201601196;03/21/2016 8:00 PM;Employee reported damage to University property;Criminal Mischief - Other;Rodney Erickson Food Science Bldg;Inactive
+PSU201601194;03/21/2016 7:49 PM;Resident Assistant reported the odor of marijuana, origin not located;Possession of Small Amount of Marijuana;Stuart Hall;Inactive
+PSU201601195;03/21/2016 6:50 PM;Employee requested assistance with an administrative matter;RFA-Request for Assistance;Findlay Cmns;Closed
+PSU201601193;03/21/2016 6:35 PM;Student reported a concern for another student;Health and Safety;Leete Hall;Closed
+PSU201601192;03/21/2016 6:15 PM;Identified occupants in possession of marijuana and drug paraphernalia;Carrying False Id Card-Minor/Possession of Small Amount of Marijuana/Pur,Cons,Poss, Trans Intox Bev/Possession of Paraphernalia;Curtin Hall;Open
+PSU201601191;03/21/2016 5:07 PM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Simmons Hall;Closed
+PSU201601190;03/21/2016 2:17 PM;Officer presented crime statistics to ARSH;Community Education Report;Redifer Cmns;Closed
+PSU201601189;03/21/2016 1:13 PM;Employee reported a two vehicle crash with no injuries;Vehicle Code - Accident/Limitations On Backing;Green B Nittany Deck Lot;Closed
+PSU201601188;03/21/2016 12:50 PM;Employee reported a suspicious person;Suspicious Activity - Persons;Palmer Museum Of Art Bldg;Open
+PSU201601187;03/21/2016 12:15 PM;Visitor reported theft of personal property;Theft/$50-$200/From Building;Findlay Cmns;Open
+PSU201601186;03/21/2016 10:44 AM;Visitor participated in a police ride along program;Community Education Report;Eisenhower Parking Deck;Closed
+PSU201601185;03/21/2016 7:41 AM;Visitor reported suspicious activity;Suspicious Activity - Other/RFA-Request for Assistance;Eisenhower Parking Deck;Closed
+PSU201601184;03/21/2016 6:29 AM;Student reported a sexual assault by a known person at an unknown location;Forcible Rape;;Inactive
+PSU201601183;03/21/2016 4:54 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Ritner Hall;Closed
+PSU201601182;03/20/2016 9:10 PM;Employee reported the odor of marijuana, origin not located;Possession of Small Amount of Marijuana/Turning Movements And Required Signals;E College Ave;Open
+PSU201601181;03/20/2016 4:31 PM;Student reported the theft of their unattended property;Theft/Over $200/From Building;Pollock Bldg;Open
+PSU201601180;03/20/2016 3:42 PM;Officer observed an animal left unattended;Animals-Dog At Large;N Burrowes Rd & Pollock Rd;Closed
+PSU201601179;03/20/2016 1:39 PM;Assisted the fire department with a reported fire alarm activation;Fire Alarms - Unknown/RFA-Request for Assistance;Moore Bldg;Closed
+PSU201601178;03/20/2016 11:18 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;McCoy Natatorium Bldg;Closed
+PSU201601177;03/20/2016 10:54 AM;Student reported a two vehicle crash with no injuries;Vehicle Code - Accident;Purple 43 Lot;Closed
+PSU201601176;03/20/2016 8:53 AM;Employee reported suspicious activity;Suspicious Activity - Other/Found Property - Miscellaneous Property;Kern Graduate Bldg;Closed
+PSU201601175;03/20/2016 6:39 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Pollock Cmns;Closed
+PSU201601174;03/20/2016 2:06 AM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Thompson Hall;Closed
+PSU201601173;03/19/2016 10:39 PM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Jordan Hall;Closed
+PSU201601172;03/19/2016 9:46 PM;Identified occupants in possession of marijuana and drug paraphernalia;Possession of Small Amount of Marijuana/Possession Of Other Drug/Pur,Cons,Poss, Trans Intox Bev/Possession of Paraphernalia;Stone Hall;Open
+PSU201601171;03/19/2016 9:32 PM;Student observed highly intoxicated and transported to the hospital;Public Drunkenness/Health and Safety/RFA-Request for Assistance;E College Ave;Cleared by Arrest
+PSU201601144;03/18/2016 9:35 PM;Student observed highly intoxicated and transported to the hospital;Public Drunkenness/Health and Safety/RFA-Request for Assistance;W Beaver Ave;Cleared by Arrest
+PSU201601115;03/17/2016 8:23 AM;Student reported the theft of their unsecured personal property;Theft Of Property Lost Etc.;Health And Human Development Bldg;Inactive
+PSU201601114;03/17/2016 7:52 AM;Student reported a person trespassing inside a residence hall room;Pur,Cons,Poss, Trans Intox Bev/Criminal Trespass;McKean Hall;Cleared by Arrest
+PSU201600918;02/27/2016 1:43 PM;Underage visitor observed highly intoxicated and transported to the hospital;Pur,Cons,Poss, Trans Intox Bev/Health and Safety/RFA-Request for Assistance;Pinchot Hall;Cleared by Arrest
+PSU201600250;01/21/2016 9:12 PM;Assisted the ambulance with a medical emergency;Health and Safety/RFA-Request for Assistance;Hamilton Hall;Closed
+PSU201600249;01/21/2016 8:48 PM;A vehicle stop investigation revealed the operator to be driving with a suspended driver's license;Vehicle Code - Incident/Driving While Susp Or Revoked/Period For Requiring Lighted Lamps/Operation Of Vehicle Without Cert Of Inspection;Bigler Rd;Closed
+PSU201600247;01/21/2016 8:09 PM;Resident Assistant reported the odor of marijuana, origin not located;Possession of Small Amount of Marijuana;Atherton Hall;Inactive
+PSU201600248;01/21/2016 6:54 PM;Assisted a student with a personal matter;Health and Safety;Beaver Hall;Closed
+PSU201600246;01/21/2016 1:38 PM;Students engaged in disorderly conduct - fighting;Disorderly Conduct - Fighting/Harassment;Pattee Library Bldg;Open
+PSU201600245;01/21/2016 1:20 PM;Staff provided security and traffic control for the Penn State Men's basketball game;Community Education Report;Bryce Jordan Center Bldg;Closed
+PSU201600243;01/21/2016 12:23 PM;Officer presented the StaySAFE program to eighty-seven students;Community Education Report;Hub Robeson Cultural Center Bldg;Closed
+PSU201600244;01/21/2016 12:02 PM;Employee reported a suspicious item;Suspicious Activity - Other;McElwain Hall;Open
+PSU201600242;01/21/2016 11:14 AM;Identified occupant in possession of marijuana;Possession of Small Amount of Marijuana;Curry Hall;Open
+PSU201600241;01/21/2016 10:57 AM;Student requested assistance with a personal matter;Lost Property - Misc Property;Eisenhower Parking Deck;Closed
+PSU201600240;01/21/2016 8:07 AM;Visitor reported a hit and run vehicle crash;Vehicle Code - Accident (Hit&Run);Brown C Lot;Open
+PSU201600239;01/21/2016 7:36 AM;Student reported disorderly persons;Disorderly Conduct - Loud Voices;Willard Bldg;Inactive
+PSU201600238;01/21/2016 6:12 AM;Assisted an outside law enforcement agency with an investigation;Assist State College Police;Westerly Pkwy;Closed
+PSU201600237;01/21/2016 6:04 AM;Student reported the theft of their secured personal property;Theft/Over $200/Bicycle;Porter Hall;Inactive
+PSU201600236;01/21/2016 4:52 AM;Employee reported a concern for another student;Health and Safety;Ford Bldg;Closed
+PSU201600235;01/21/2016 2:42 AM;Student reported being harassed;Harassment/Health and Safety/RFA-Request for Assistance;Pollock Cmns;Inactive
+PSU201600209;01/19/2016 9:38 AM;Student reported being harassed;Terroristic Threats/Harassment;Pegula Ice Arena Bldg;Inactive
+PSU201600200;01/18/2016 9:00 PM;Identified occupants in possession of marijuana and drug paraphernalia;Possession of Small Amount of Marijuana/Pur,Cons,Poss, Trans Intox Bev/Possession of Paraphernalia;Chace Hall;Cleared by Arrest
+PSU201503066;09/11/2015 9:29 PM;Student observed highly intoxicated and transported to the hospital;Carrying False Id Card-Minor/Possession Of Other Drug/Pur,Cons,Poss, Trans Intox Bev/Public Drunkenness/Violations Concerning Licenses/Health and Safety/RFA-Request for Assistance;E Park Ave & University Dr;Cleared by Arrest
