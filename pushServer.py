@@ -12,7 +12,7 @@ from pushbullet import Pushbullet
 
 MAX_LIST = 25 # pushes before deletion
 DELAY = 10 # second refresh
-KEY= 'QQKY8npXhlXtREilYK2QK7Ifb66Y6TIX'
+KEY= ''
 
 def commandURL(url):
     webbrowser.open(url)
